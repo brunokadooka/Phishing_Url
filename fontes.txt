@@ -1,0 +1,4 @@
+phishing_site_others.csv - 500k entradas fonte: https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls
+
+
+phishing_url_dataset.csv - 2k entradas https://www.kaggle.com/datasets/sunnykusawa/phishing-urls
