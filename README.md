@@ -1,6 +1,6 @@
 # Phishing_Url
 
-Este repositório é para praticar e aprimorar habilidades em análise de dados, focando em tratamento de valores ausentes, identificação de outliers, limpeza de dados, análise exploratória, análise descritiva e um pouco de machine learning. Uso Pandas, NumPy, Matplotlib e Seaborn para desenvolver notebooks que demonstram minha evolução nessas áreas, este tambem é um projeto todo comentado para mostrar as decisões que tomei ao longo do desenvolvimento.
+Este repositório é para praticar e aprimorar habilidades em análise de dados, focando em tratamento de valores ausentes, identificação de outliers, limpeza de dados, análise exploratória, análise descritiva e um pouco de machine learning. Uso Pandas, NumPy, Matplotlib e Seaborn para desenvolver notebooks que demonstram minha evolução nessas áreas, este tambem é um projeto todo comentado para mostrar as decisões que tomei ao longo do desenvolvimento, além tudo este repositório foi para estudar **problemas de CLASSIFICAÇÃO.**
 
 Alguns conhecimentos estudados e abordados neste projeto foram:
 
